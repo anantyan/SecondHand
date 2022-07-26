@@ -1,4 +1,4 @@
-**Privacy Policy**
+**Privacy Policy of Second Hand**
 
 AAG Soft built the Second Hand App app as a Free app. This SERVICE is provided by AAG Soft at no cost and is intended for use as is.
 
