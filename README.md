@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/43742778/180632547-657f2f6d-5fc3-41e0-
 - Coil Apache License
 - Datastore Apache License
 - Coroutines Apache License
+- Lifecycle AndroidX Apache License
 - Dhaval Patel Image Picker Apache License
 - Vmadalin Easypermissions-ktx Apache License
 - Anders Cheow Validator MIT License
