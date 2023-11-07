@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197933608126",
+    "project_id": "final-project-km-binar-academy",
+    "storage_bucket": "final-project-km-binar-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197933608126:android:b404c45bc59cf2bd3102ef",
+        "android_client_info": {
+          "package_name": "id.co.binar.secondhand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197933608126-26jfbo2c69487v966j7t0pckjh42cp9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.binar.secondhand",
+            "certificate_hash": "ea8b61229d595f54c851843f4b97242bd120aac8"
+          }
+        },
+        {
+          "client_id": "197933608126-lcbqv6b9tp3bf80s84vl1uli28e1eier.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.binar.secondhand",
+            "certificate_hash": "5987daeb618925d7963dc8a0276ab1dd7c0e06ab"
+          }
+        },
+        {
+          "client_id": "197933608126-97ssphqfj9669lvm9h9js97r774frb6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzGp0dTu3x6F_hWEA_sk_9X9HuqJ8Dd4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197933608126-97ssphqfj9669lvm9h9js97r774frb6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

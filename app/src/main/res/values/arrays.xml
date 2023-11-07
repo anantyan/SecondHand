@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_items">
+        <item>Aceh</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Banyumas</item>
+        <item>Banjarnegara</item>
+        <item>Wonosobo</item>
+        <item>Magelang</item>
+        <item>Yogyakarta</item>
+        <item>Solo</item>
+        <item>Semarang</item>
+        <item>Malang</item>
+        <item>Papua</item>
+    </string-array>
+</resources>

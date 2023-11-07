@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_notifikasi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="2dp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/imageView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:src="@color/purple_100"
+            app:riv_corner_radius="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_notif_product"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="8dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Penawaran produk"
+            android:textColor="#8A8A8A"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toStartOf="@+id/tv_notif_time"
+            app:layout_constraintStart_toEndOf="@+id/imageView"
+            app:layout_constraintTop_toTopOf="@id/imageView" />
+
+        <TextView
+            android:id="@+id/tv_notif_time"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="32dp"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:text="20 Apr, 14:04"
+            android:textColor="#8A8A8A"
+            android:textSize="10sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tv_notif_product" />
+
+        <ImageView
+            android:id="@+id/bullet_notif"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/ic_circle_notif"
+            android:visibility="visible"
+            app:layout_constraintStart_toEndOf="@id/tv_notif_time"
+            app:layout_constraintTop_toTopOf="@id/tv_notif_time" />
+
+        <TextView
+            android:id="@+id/tv_nama_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="21dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Jam Tangan Casio"
+            app:layout_constraintStart_toEndOf="@+id/imageView"
+            app:layout_constraintTop_toBottomOf="@+id/tv_notif_product" />
+
+        <TextView
+            android:id="@+id/tv_notif_harga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Rp 250.000"
+            app:layout_constraintStart_toStartOf="@id/tv_nama_product"
+            app:layout_constraintTop_toBottomOf="@id/tv_nama_product" />
+
+        <TextView
+            android:id="@+id/tv_notif_tawar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Ditawar Rp 200.000"
+            android:visibility="visible"
+            app:layout_constraintStart_toStartOf="@id/tv_notif_harga"
+            app:layout_constraintTop_toBottomOf="@id/tv_notif_harga" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>
