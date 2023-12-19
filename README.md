@@ -1,4 +1,6 @@
 # Second Hand Project
+[![Android with Github Action - CI](https://github.com/anantyan/SecondHand/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/anantyan/SecondHand/actions/workflows/ci.yml)
+
 <a href='https://play.google.com/store/apps/details?id=id.co.binar.secondhand&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
   <img alt='Temukan di Google Play' width="180" height="72" src='https://play.google.com/intl/id/badges/static/images/badges/id_badge_web_generic.png'/>
 </a>
@@ -11,7 +13,7 @@
 
 ### Description :
 Sebuah platform marketplace yang menyediakan berbagai macam barang bekas baru dan hingga langka untuk semua kebutuhan anda yang ingin mengoleksi barang ataupun produk makanan, dan juga menyediakan harga negosiasi antar pengguna 👍 <br>
-Jika anda ingin menguji coba aplikasi debug beta tes bisa langsung ke artifact ci ada menu <a href='https://github.com/rrfadilah/FinalProject-G5/actions'>ini</a> 
+Jika anda ingin menguji coba aplikasi debug beta tes bisa langsung ke artifact ci ada menu <a href='https://github.com/anantyan/SecondHand/actions/'>ini</a> 
 
 ### Screenshoot :
 ![Pages – 1](https://user-images.githubusercontent.com/43742778/180657696-8ba9aa0e-f98f-48ca-b6f3-7789f1906a7e.png)
