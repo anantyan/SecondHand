@@ -12,8 +12,8 @@
 ![Custom Size – 2](https://user-images.githubusercontent.com/43742778/180656934-39910bd4-51c3-4d56-a215-eb787bc9cdda.png)
 
 ### Description :
-Sebuah platform marketplace yang menyediakan berbagai macam barang bekas baru dan hingga langka untuk semua kebutuhan anda yang ingin mengoleksi barang ataupun produk makanan, dan juga menyediakan harga negosiasi antar pengguna 👍 <br>
-Jika anda ingin menguji coba aplikasi debug beta tes bisa langsung ke artifact ci ada menu <a href='https://github.com/anantyan/SecondHand/actions/'>ini</a> 
+A marketplace platform that provides a wide range of new and rare used items for all your needs who want to collect items or food products, and also provides negotiated prices between users 👍 <br> <br>
+If you want to test the application debug beta test can go directly to artifact ci there is a menu <a href='https://github.com/anantyan/SecondHand/actions/'>here</a>
 
 ### Screenshoot :
 ![Pages – 1](https://user-images.githubusercontent.com/43742778/180657696-8ba9aa0e-f98f-48ca-b6f3-7789f1906a7e.png)
